@@ -1,0 +1,8 @@
+nombre = John Cena
+estatura = 184
+peso = 112
+Es Mujer = false 
+Es Hombre = true
+Peso Ideal = 84.0
+Sobre Peso = 19.599999999999994
+Bajo de peso = 0

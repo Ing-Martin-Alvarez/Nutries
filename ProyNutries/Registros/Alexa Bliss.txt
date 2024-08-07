@@ -1,0 +1,8 @@
+nombre = Alexa Bliss
+estatura = 155
+peso = 46
+Es Mujer = true 
+Es Hombre = false
+Peso Ideal = 55.0
+Sobre Peso = 0
+Bajo de peso = 0.75
